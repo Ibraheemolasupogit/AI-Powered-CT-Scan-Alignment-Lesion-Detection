@@ -6,7 +6,7 @@ This 12-week research project explores the use of AI and computer vision to assi
 
 ## 🩺 Project Goal
 
-To automate the comparison of two CT scans taken at different times, by:
+To automate the comparison of two CT scans taken at different times, by: 
 - Aligning scan slices for accurate visual comparison
 - Detecting and measuring changes in lesions or organs
 - Highlighting areas of concern to assist clinical decision-making
